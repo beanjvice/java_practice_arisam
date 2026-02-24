@@ -1,6 +1,5 @@
 package assignment2_arisam;
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Assignment2_arisam{
@@ -26,6 +25,8 @@ public class Assignment2_arisam{
         System.out.println("Hypotenuse" + " c = " + c);
         System.out.println("\n Inner Angle Alpha = " + alpha);
         System.out.println("\nInner Angle Beta = " + beta);
+
+        scan.close();
     }
 
 }

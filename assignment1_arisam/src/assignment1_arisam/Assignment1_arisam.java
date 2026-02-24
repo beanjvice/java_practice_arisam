@@ -1,6 +1,5 @@
 package assignment1_arisam;
 
-import java.io.*;
 import java.time.*;
 
 public class Assignment1_arisam
